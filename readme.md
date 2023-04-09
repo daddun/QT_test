@@ -1,0 +1,2 @@
+[[ PyQt入门教程 ] Qt Designer工具的使用 - 锅边糊 - 博客园.url](..%2F..%2FAppData%2FLocal%2FTemp%2F%5B%20PyQt%C8%EB%C3%C5%BD%CC%B3%CC%20%5D%20Qt%20Designer%B9%A4%BE%DF%B5%C4%CA%B9%D3%C3%20-%20%B9%F8%B1%DF%BA%FD%20-%20%B2%A9%BF%CD%D4%B0.url)  
+[Qt Designer Download for Windows and Mac.url](..%2F..%2FAppData%2FLocal%2FTemp%2FQt%20Designer%20Download%20for%20Windows%20and%20Mac.url)
